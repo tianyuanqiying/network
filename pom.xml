@@ -11,5 +11,7 @@
     <modules>
         <module>client01</module>
         <module>server01</module>
+        <module>client02</module>
+        <module>server02</module>
     </modules>
 </project>
